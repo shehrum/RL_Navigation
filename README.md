@@ -38,3 +38,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The dqn_agent.py contains the class for the agent that we would use for this project. The model.py contains the Dueling Q Network that we would use as a function approximator. 
+
+### Results
+The environment gets solved in 467 episodes, achieving an average score of 13.03
+
+![score](/dddqn_scores.png)
