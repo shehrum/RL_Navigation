@@ -46,3 +46,9 @@ If you want to use the pre-trained model, navigate to the `model_weights` folder
 The environment gets solved in 467 episodes, achieving an average score of 13.03
 
 ![score](/dddqn_scores.png)
+
+
+### References
+1. Double Deep Q-Learning https://arxiv.org/pdf/1509.06461.pdf
+2. Dueling Network https://arxiv.org/pdf/1511.06581.pdf
+
