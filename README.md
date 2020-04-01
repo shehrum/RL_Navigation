@@ -48,7 +48,13 @@ The environment gets solved in 467 episodes, achieving an average score of 13.03
 ![score](/dddqn_scores.png)
 
 
+### Dependencies
+Use the `requirements.txt` to install the required dependencies. 
+
+pip install -r requirements.txt
+
 ### References
 1. Double Deep Q-Learning https://arxiv.org/pdf/1509.06461.pdf
 2. Dueling Network https://arxiv.org/pdf/1511.06581.pdf
+
 
