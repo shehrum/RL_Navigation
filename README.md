@@ -38,7 +38,9 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The dqn_agent.py contains the class for the agent that we would use for this project. It also contains the Replay Buffer class, which we use to add experiences to a memory buffer from which later sample experiences randomly.
-The model.py contains the Dueling Q Network that we would use as a function approximator. 
+The model.py contains the Dueling Q Network that we would use as a function approximator.
+
+If you want to use the pre-trained model, navigate to the model_weights folder and load the file `dddqn.pth` file.
 
 ### Results
 The environment gets solved in 467 episodes, achieving an average score of 13.03
